@@ -53,4 +53,11 @@ body {
   background-color: #5da797;
   border: 1px solid grey;
   border-radius: 4px;
+  margin-top: 10px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.submitButton:hover {
+  background-color: #0e528d;
 }
