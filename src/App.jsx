@@ -21,7 +21,7 @@ function App() {
             <label>パスワード</label>
             <input type="text" placeholder='パスワード' name='password' />
           </div>
-          <button className="submitButton">登録</button>
+          <button className="submitButton">ログイン</button>
         </div>
       </form>
     </div>
